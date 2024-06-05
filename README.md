@@ -1,8 +1,30 @@
-# React + Vite
+# Dhaara Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+## Inital project setup
+```
+npm install
+```
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Running the Project
+```
+npm run dev
+```
+
+
+# Images
+
+## Landing Page - Desktop
+<img src="./images/image.png" alt="Dhaara dashboard"/>
+<img src="./images/image-1.png" alt="Dhaara dashboard 1"/>
+<img src="./images/image-2.png" alt="Dhaara dashboard 2"/>
+
+## Landing Page - Mobile
+<img src="./images/image-3.png" alt="Dhaara dashboard 3"/>
+<img src="./images/image-4.png" alt="Dhaara dashboard 4"/>
+<img src="./images/image-5.png" alt="Dhaara dashboard 5"/>
+<img src="./images/image-6.png" alt="Dhaara dashboard 6"/>
+<img src="./images/image-7.png" alt="Dhaara dashboard 7"/>
+<img src="./images/image-8.png" alt="Dhaara dashboard 8"/>
+<img src="./images/image-9.png" alt="Dhaara dashboard 9"/>
+<img src="./images/image-10.png" alt="Dhaara dashboard 10"/>
